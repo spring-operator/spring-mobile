@@ -191,4 +191,4 @@ Follow [@SpringCentral] as well as [@SpringFramework] on Twitter. In-depth artic
 [@SpringCentral]: https://twitter.com/springcentral
 [The Spring Blog]: http://spring.io/blog/
 [news feed]: http://spring.io/blog/category/news
-[Apache License]: http://www.apache.org/licenses/LICENSE-2.0
+[Apache License]: https://www.apache.org/licenses/LICENSE-2.0
